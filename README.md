@@ -1,1 +1,1 @@
-# Code for the my Master thesis
+# Code for my Master thesis
